@@ -11,6 +11,6 @@ app = Flask(__name__)
 def hellocoders():
     return "<B>Enjoy Big Data and Dev Conference"
 
-#Run the app
+#Run the app.
 app.run()
 
